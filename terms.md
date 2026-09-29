@@ -32,4 +32,4 @@ The Bot is provided "as is" without warranty. The developer is not responsible f
 These terms may be updated at any time. Continued use of the Bot constitutes acceptance of the updated terms.
 
 ## 8. Contact
-For questions, contact: your-email@example.com
+For questions, contact: moamen.sarhan1236@gmail.com
